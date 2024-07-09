@@ -1,0 +1,13 @@
+.user_container{
+    display:flex;
+    width:100%;
+    height:100vh;
+}
+.user_content{
+    width:50%;
+    background-color: antiquewhite;
+}
+.user_content{
+    width:50%;
+    background-color: rgb(255, 191, 107);
+}
