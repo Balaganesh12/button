@@ -1,5 +1,5 @@
 {
-  "name": "icemake_template",
+  "name": "@Balaganesh12/button",
   "version": "1.0.0",
   "description": "",
   "type": "module",
@@ -27,5 +27,8 @@
   "types": "dist/index.d.ts",
   "dependencies": {
     "tslib": "^2.6.3"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/Balaganesh12"
   }
 }
